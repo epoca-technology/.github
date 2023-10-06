@@ -250,7 +250,7 @@ Even though the configuration that comes out-of-the-box has been tested for over
 #
 ## Dataset Builder
 
-In order to provide a high quality input to each of the modules, Epoca stores and permanently syncs the historical prices of Bitcoin in candlestick format (1 minute intervals). This allows the system to build and output datasets in any desired format (defaults to .csv) and time interval, so they can be used by any system external to Epoca (F.e Jupyter Notebooks).
+In order to provide a high quality input to each of the modules, Epoca stores and permanently syncs the historical prices of Bitcoin in candlestick format (1 minute intervals). This allows the system to build and output datasets in any desired format (defaults to .csv) and time interval, so they can be used by any system external to Epoca (E.g. Jupyter Notebooks).
 
 ![Candlesticks Bundle](https://firebasestorage.googleapis.com/v0/b/projectplutus-prod.appspot.com/o/public%2Fwhitepaper%2F26_candlesticks.png?alt=media&token=3ac2356b-49a5-44cd-9486-3503ecaef7c4)
 
