@@ -4,6 +4,8 @@ Epoca implements a modern variation of the "Value Averaging Strategy" that opera
 
 The requirements for running an instance of Epoca are:
 
+- NodeJS v16.14.0^
+- Docker v24.0.6^
 - 2 CPUs
 - 4 GB Memory
 - 50 GB Disk
